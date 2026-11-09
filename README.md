@@ -1,1 +1,3 @@
-# Final-Year-Project
+# Project Description
+
+An application that aids recycle by using Computer vison to sort and give instructions for recycle. This will be done using texture recognition to identify what type of object or material or textures it i and once classified, instructions for recycle can be given. Transfer learning can be used to improve accuracy. Relevant datasets will need to be found to train the model. For texture recognition there will be multiple textures that will need to be identified because this is not only for food waste but also other things like batteries and electronic equipment. Instructions like clean, wash, remove label will be given to ensure accurate recycling. It will also include recycle locations for items that cannot be recycled at home. You need to find research on where and how it has been done and how it can be improved, and what fell short in their research.
